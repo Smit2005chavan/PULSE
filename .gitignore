@@ -1,0 +1,8 @@
+# local data and secrets
+data/
+*.db
+*.xls
+*.xlsx
+.env
+__pycache__/
+*.pyc
